@@ -28,5 +28,19 @@ console.log(pink);
 console.log(colors);
 
 
+console.log(Array.isArray(colors));
+
+let t = 'my name is ahmed';
+
+let tarray = t.split(' ');
+
+console.log(tarray);
+console.log(tarray[3]);
+
+console.log(tarray.join('_-_'));
+
+
+
+
 
 
