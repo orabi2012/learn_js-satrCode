@@ -12,4 +12,10 @@ for(let a = 1; a<= i ;a++){
 
 }
 
-printlist(10);
+
+function add(n1 , n2){
+
+    return n1+n2;
+}
+
+printlist(add(5,7))
