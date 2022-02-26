@@ -26,6 +26,6 @@ console.log(op(n1,n2 ,sub))
 console.log(op(n1,n2 ,mult))
 
 
-
-//console.log(op(n1,n2,(f1,f2)=> f1/f2 ))
+const s = (f1,f2)=> f1+f2
+console.log(op(100,50, s))
 
