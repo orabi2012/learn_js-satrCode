@@ -40,3 +40,11 @@ while(c < A.length){
     console.log(A[c])
     c++;
 }
+console.log('----------While-2---------')
+
+
+var x = 0;
+
+while (x < 1) {
+  console.log('Oops! x is never incremented from 0, so it will ALWAYS be less than 1');
+}
