@@ -1,5 +1,5 @@
 
-console.log(RT("sama"));
+console.log(RT("100"));
 
 function RT (OT){
 
