@@ -13,3 +13,13 @@ for (var row = 0; row < donutBox.length; row++) {
     console.log("-----------------------------" + column);
   }
 }
+
+
+  for (let index = 0; index < array.length; index++) {
+      
+    for (let index = 0; index < array.length; index++) {
+        const element = array[index];
+        
+    }
+      
+  }
