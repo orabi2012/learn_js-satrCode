@@ -11,3 +11,8 @@ for(var i = 0 ;i <= OT.length -1 ; i++){
 }
 return RT;
 }
+
+
+var reverseMe = ["h", "e", "l", "l", "o"];
+
+console.log(reverseMe.reverse());
